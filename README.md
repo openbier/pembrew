@@ -1,3 +1,5 @@
+![Travis: Build passes](http://t0.gstatic.com/images?q=tbn:ANd9GcTvWxTfrNpbtDbxelRY1ne3qgvttBGMkXH0YrbWwfQSQ7XK8vB-qxvwhUo)
+
 # Open Bier
 
 Open Bier is an approach to redesign the home-brewing experience. 
