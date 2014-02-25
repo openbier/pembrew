@@ -2,6 +2,8 @@
 
 # Open Bier
 
+_(a.k.a. PEMbrew, Guerilla-Brewing, Home-Brew, ...we hope none of these were licensed :P)_
+
 Open Bier is an approach to redesign the home-brewing experience. 
 We want to provide everyone with everything they need to brew their very own beer, (or as the Germans say 'Bier')
 both inexpensively and completely open-source.
